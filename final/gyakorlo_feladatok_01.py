@@ -1,6 +1,7 @@
 # GYAKORLÁS 01
 # 2025.01.12.
-from operator import index
+
+# Google Classroom, Dig. Kult. 11.A/MAT, 2024.10.05. gyakoló feladatok
 
 ###########################
 # 1
