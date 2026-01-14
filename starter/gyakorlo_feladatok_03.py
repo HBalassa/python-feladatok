@@ -47,7 +47,7 @@
 
 # Az állomás számítógépe minden órában megkérdezi, hogy milyen feladatot szeretnél végrehajtani.
 # Ha valamelyik erőforrás nulla alá csökken, a program hagyja abba a kérdések feltevését és közölje velünk:
-# „Figyelmeztetés! A/Az [erőforrás neve] fogyóban! Újratöltés szükséges!”.
+# „Figyelmeztetés! Az [erőforrás neve] fogyóban! Újratöltés szükséges!”.
 
 # Majd oldjuk meg a következő feladatokat is:
 # 1. Hány feladatot hajtottunk végre összesen?
