@@ -6,7 +6,7 @@
 # Google Classroom, Dig. Kult. 11.A/MAT, 2024.11.07. órai munka
 ###########################
 # Partit rendezel az osztálytársaidnak. A feladatod az, hogy összállítsd a költségvetést,
-# és hogy megtervezd meg, hogy mire költöd a pénzt. Ahhoz, hogy ezt könnyebben megcsináld, írsz egy programot!
+# és hogy megtervezd, hogy mire költöd a pénzt. Ahhoz, hogy ezt könnyebben megcsináld, írsz egy programot!
 # A program először is bekéri a felhasználótól a buli költségvetését!
 
 # Az így meghatározott pénzt 4 féle dologra költheted:
@@ -37,7 +37,7 @@
 #   2) Nem szépirodalom: 5 dollár könyvenként
 #   3) Gyermekkönyvek: 2 dollár könyvenként
 #   4) Képregény: 1 dollár könyvenként
-# A program kérdezze meg a felhasználótm hogy milyen kategóriát szeretne kölcsözöni, egészen addig,
+# A program kérdezze meg a felhasználót hogy milyen kategóriát szeretne kölcsözöni, egészen addig,
 # amíg el nem fogy a keret, vagy el nem éri a 10 könyvet.
 # Minden egyes alkalommal, amikor kiválaszt egy kategóriát, vond le a megfelelő összeget a költségvetéséből.
 
